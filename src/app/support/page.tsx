@@ -50,7 +50,7 @@ export default function HelpSupportPage() {
         <Card>
           <CardHeader>
             <CardTitle>Contact Us</CardTitle>
-            <CardDescription>We&app;re here to help. Reach out to us anytime.</CardDescription>
+            <CardDescription>Were here to help. Reach out to us anytime.</CardDescription>
           </CardHeader>
           <CardContent>
             <div className="mb-6 space-y-4">
