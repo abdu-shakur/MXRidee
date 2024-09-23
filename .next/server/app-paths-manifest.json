@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/book-ride/page": "app/book-ride/page.js",
+  "/(auth)/forgot-password/page": "app/(auth)/forgot-password/page.js",
+  "/(dashboard)/payment-methods/page": "app/(dashboard)/payment-methods/page.js",
+  "/(dashboard)/profile/page": "app/(dashboard)/profile/page.js",
+  "/support/page": "app/support/page.js"
+}
