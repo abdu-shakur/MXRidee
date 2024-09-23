@@ -37,7 +37,7 @@ export default function DriverRegistrationPage() {
               <Input id="phone" type="tel" placeholder="Enter your phone number" />
             </div>
             <div className="space-y-2">
-              <Label htmlFor="driverLicense">Driver's License Number</Label>
+              <Label htmlFor="driverLicense">Driver&app;s License Number</Label>
               <Input id="driverLicense" placeholder="Enter your driver's license number" />
             </div>
             <div className="space-y-2">
